@@ -1,6 +1,19 @@
-# insert title here
+# insert project title here
 
-## Research Question
+### Research Question
 placeholder
 
-## Data
+### Why This Matters
+test
+
+### Spatial & Temporal Scope
+test
+
+### Data Sources
+test
+
+### Analysis & Visualizations
+test
+
+### Conclusion & Expectations
+test
