@@ -1,4 +1,4 @@
-###Equitable Access to Safe Biking Infrastructure in LA
+### Equitable Access to Safe Biking Infrastructure in LA
 
 In our research, we plan to explore the relationship between neighborhood income and access to bike infrastructure, and how this impacts the number of bike collisions in the city of Los Angeles (LA). The research will compare neighborhood demographics from census data to existing bike infrastructure, and whether this correlates to traffic collisions involving bikes. By using this information, we can identify whether different socioeconomic factors contribute to communities receiving different levels of bike infrastructure. From there, we will also determine whether higher instances of bike collisions occur in lower-income communities. 
 
